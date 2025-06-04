@@ -1,2 +1,0 @@
-# data-an
-dats toturial
